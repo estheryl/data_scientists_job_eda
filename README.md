@@ -1,5 +1,8 @@
 # Data Visualization of Data Scientist Job Listings on Indeed.com 
 
+Group Member:
+Esther Liu, Xu Liu
+
 Dataset: 
 - All Data Science related job listings on Indeed.com in Dec 2018
 - 5715 rows and 43 columns
