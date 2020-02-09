@@ -3,6 +3,9 @@
 Group Member:
 Esther Liu, Xu Liu
 
+Medium article about this project on Towards Data Science:
+https://towardsdatascience.com/most-essential-set-of-skills-for-the-type-of-data-scientist-job-youre-looking-for-44d5f6d23ca3
+
 Dataset: 
 - All Data Science related job listings on Indeed.com in Dec 2018
 - 5715 rows and 43 columns
